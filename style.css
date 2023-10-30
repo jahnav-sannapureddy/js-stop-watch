@@ -46,6 +46,9 @@ h1{
     font-size: 76px;
     color: rgb(96, 130, 252);
     margin: 0px;
+    background: linear-gradient(to right, rgb(96, 130, 252), rgb(152, 172, 245)); 
+    -webkit-text-fill-color: transparent; 
+    -webkit-background-clip: text; 
 }
 
 #display-container{
